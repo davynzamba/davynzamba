@@ -14,7 +14,7 @@ Engenheiro de Controle e Automação em formação na UTFPR e Desenvolvedor foca
         <li>MATLAB</li>
         <li>AutoCAD</li>
         <li>Dialux</li>
-        <li>Arduino</li>
+        <li>Arduino / **FPGA**</li>
       </ul>
     </td>
     <td valign="top" width="33%">
@@ -41,6 +41,7 @@ Engenheiro de Controle e Automação em formação na UTFPR e Desenvolvedor foca
 ### 🚀 No que estou trabalhando atualmente
 * 🎓 Estudando **Engenharia de Controle e Automação** na UTFPR (Curitiba).
 * 💼 Atuando na área de projetos e orçamentos na **Energy Global**, aplicando automação de processos no dia a dia.
+* ⚡ Aprofundando estudos em eletrônica digital com desenvolvimento em **VHDL para FPGAs**.
 * 📐 Monitor de **Geometria Analítica** na universidade, ajudando a simplificar a matemática para novos alunos.
 * 🏀 Desenvolvendo um app voltado para a comunidade do basquete utilizando **Lovable** e **Supabase**.
 
